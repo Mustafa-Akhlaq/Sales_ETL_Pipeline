@@ -1,0 +1,16 @@
+order_id,customer_id,product_name,unit_price,quantity,order_date,region
+6001,1020,Webcam HD,38.75,1,2026-05-04,South
+6002,1008,USB-C Hub,22.0,5,2026-07-04,South
+6003,1009,Monitor 24-inch,145.0,4,2026-05-04,South
+6004,1011,External SSD 1TB,79.99,2,2026-07-17,South
+6005,1011,Laptop Stand,30.0,1,2026-06-03,South
+6006,1007,Webcam HD,38.75,1,2026-05-13,South
+6007,1016,Noise Cancelling Headphones,89.99,2,2026-06-04,South
+6008,1009,Monitor 24-inch,145.0,2,2026-07-07,South
+6009,1018,Laptop Stand,30.0,5,2026-06-21,South
+6010,1019,Bluetooth Speaker,34.5,4,2026-06-03,South
+6011,1005,Noise Cancelling Headphones,89.99,2,2026-05-20,South
+6012,1002,Monitor 24-inch,145.0,1,2026-07-10,South
+6013,1014,USB-C Hub,22.0,2,2026-05-09,South
+6014,1013,Mechanical Keyboard,45.5,4,2026-05-09,South
+6015,1009,Monitor 24-inch,145.0,5,2026-05-15,South

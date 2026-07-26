@@ -1,0 +1,19 @@
+order_id,customer_id,product_name,unit_price,quantity,order_date,region
+5001,1009,Mechanical Keyboard,45.5,1,2026-06-23,North
+5002,1004,Laptop Stand,30.0,2,2026-04-29,North
+5003,1019,External SSD 1TB,79.99,1,2026-05-31,North
+5004,1003,Wireless Mouse,15.99,1,2026-06-27,North
+5005,1020,Laptop Stand,30.0,5,2026-07-21,North
+5006,1018,External SSD 1TB,79.99,2,2026-06-01,North
+5007,1019,Laptop Stand,30.0,4,2026-06-19,North
+5008,1014,Wireless Mouse,15.99,2,2026-06-11,North
+5009,1007,Webcam HD,38.75,2,2026-06-11,North
+5010,1013,Mechanical Keyboard,45.5,1,2026-07-12,North
+5011,1020,Noise Cancelling Headphones,89.99,3,2026-06-21,North
+5012,1018,Wireless Mouse,15.99,4,2026-07-09,North
+5013,1018,Desk Lamp,18.25,1,2026-06-17,North
+5014,1019,Bluetooth Speaker,34.5,3,2026-06-30,North
+5015,1008,Mechanical Keyboard,45.5,1,2026-06-17,North
+5016,1004,Mechanical Keyboard,45.5,2,2026-06-06,North
+5017,1012,Webcam HD,38.75,4,2026-07-04,North
+5018,1007,Noise Cancelling Headphones,89.99,3,2026-04-30,North

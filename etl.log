@@ -1,0 +1,5 @@
+2026-07-26 08:00:23,091 - INFO - CSV files extracted successfully.
+2026-07-26 08:00:23,334 - INFO - Customer data extracted successfully.
+2026-07-26 08:00:23,360 - INFO - Data Transformed Successfully.
+2026-07-26 08:00:23,679 - INFO - Data Loaded Successfully
+2026-07-26 08:00:23,679 - INFO - ETL Pipeline Completed Successfully

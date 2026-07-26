@@ -1,0 +1,21 @@
+order_id,customer_id,product_name,unit_price,quantity,order_date,region
+7001,1018,Wireless Mouse,15.99,1,2026-06-20,East
+7002,1010,Noise Cancelling Headphones,89.99,1,2026-05-30,East
+7003,1001,USB-C Hub,22.0,4,2026-06-21,East
+7004,1017,External SSD 1TB,79.99,2,2026-07-11,East
+7005,1020,Webcam HD,38.75,5,2026-06-29,East
+7006,1006,USB-C Hub,22.0,3,2026-05-16,East
+7007,1020,External SSD 1TB,79.99,1,2026-06-13,East
+7008,1004,Monitor 24-inch,145.0,1,2026-06-08,East
+7009,1002,Webcam HD,38.75,2,2026-06-24,East
+7010,1003,Bluetooth Speaker,34.5,1,2026-05-23,East
+7011,1005,Mechanical Keyboard,45.5,5,2026-07-08,East
+7012,1006,Monitor 24-inch,145.0,5,2026-06-21,East
+7013,1014,External SSD 1TB,79.99,5,2026-06-27,East
+7014,1010,External SSD 1TB,79.99,2,2026-06-03,East
+7015,1017,Noise Cancelling Headphones,89.99,4,2026-05-28,East
+7016,1008,Mechanical Keyboard,45.5,2,2026-07-16,East
+7017,1019,Noise Cancelling Headphones,89.99,1,2026-05-15,East
+7018,1008,Laptop Stand,30.0,5,2026-07-24,East
+7019,1008,Mechanical Keyboard,45.5,1,2026-07-16,East
+7020,1003,Wireless Mouse,15.99,3,2026-05-20,East
