@@ -394,7 +394,7 @@ ETL Pipeline Completed Successfully!
 
 ## 📝 ETL Log File
 
-![ETL Log](screenshots/etl_log.png)
+![ETL Log](screenshots/etl_logs.png)
 
 ---
 
